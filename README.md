@@ -10,3 +10,5 @@ Meu nome é kauane
 -@kauane.alcantara.santos@escola.pr.gov.br
 -
   estou acahando divertido participar desse curso
+
+![](https://media.tenor.com/khPpTrde1TwAAAAi/love-hug.gif)
